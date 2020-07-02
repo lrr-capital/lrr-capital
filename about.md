@@ -8,6 +8,7 @@ LRR Capital is a hedge fund founded by three students in 2020. Our strategy emph
 
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
+LRR Capital is registered as a limited liability company (LLC) with the State of Georgia. 
 
 ## Stephen J. Lowe
 
