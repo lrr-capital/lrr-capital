@@ -4,8 +4,6 @@ title: Research
 ---
 # Research
 
-Here is some research
-
 ## Research 1
 
 Donec consectetur sollicitudin mi eget placerat. Sed mi arcu, sagittis ut sollicitudin id, faucibus a lacus. Duis et tellus nec neque molestie mollis vel vitae nisi.
