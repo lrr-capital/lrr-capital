@@ -6,15 +6,20 @@ title: Research
 
 blah
 
-## Bio 1
+## Research 1
 
 Blah
 
-## Bio 1
+[Research Link](/files/sample.pdf)
+
+## Research 2
 
 Blah
 
-## Bio 1
+[Research Link](/files/sample.pdf)
+
+## Reseearch 3
 
 Blah
 
+[Research Link](/files/sample.pdf)
