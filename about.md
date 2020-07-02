@@ -12,19 +12,19 @@ LRR Capital is registered as a limited liability company (LLC) with the State of
 
 ## Stephen J. Lowe
 
-<img src="/images/stephen-1.jpg" alt="Stephen" width="100"/>
+<img src="/images/stephen-1.jpg" alt="Stephen" width="150"/>
 
 Stephen is a junior at Northwestern University studying cognitive science. He is originally from Overland Park, KS, a suburb of Kansas City. 
 
 ## Wasim I. Rahaman
 
-<img src="/images/wasim-1.jpg" alt="Wasim" width="100"/>
+<img src="/images/wasim-1.jpg" alt="Wasim" width="150"/>
 
 Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL.
  
 ## Christopher A. Rascoe
 
-<img src="/images/seal-1.jpg" alt="Chris" width="100"/>
+<img src="/images/seal-1.jpg" alt="Chris" width="150"/>
 
 Chris is a sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
 
