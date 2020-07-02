@@ -11,7 +11,7 @@ Each of our founders plays an active role in sourcing and researching investment
 
 ## Stephen J. Lowe
 
-Stephen is a junior at Northwestern University studying cognitive science. He is originally from Overland Park, KS. 
+Stephen is a junior at Northwestern University studying cognitive science. He is originally from Overland Park, KS, a suburb of Kansas City. 
 
 ## Wasim I. Rahaman
 
