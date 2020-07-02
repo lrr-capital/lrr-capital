@@ -4,7 +4,7 @@ title: About
 ---
 # About
 
-LRR Capital is a hedge fund founded by three students in 2020. Our strategy emphasizes traditional long/short equity strategies, with a focus on mid- and small- cap companies. We curently invest approximately $12,000 in total assets under management.
+LRR Capital is a hedge fund founded by three students in 2020. Our strategy emphasizes traditional long/short equity strategies, with a focus on mid- and small- cap companies. You can read more about our positions and research on the "Research" section of this site. We curently invest approximately $12,000 in total assets under management.
 
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
@@ -19,5 +19,5 @@ Wasim is a sophomore at Northwestern University studying mathematics and economi
  
 ## Christopher A. Rascoe
 
-Chris isa sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
+Chris is a sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
 
