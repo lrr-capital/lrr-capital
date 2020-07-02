@@ -18,7 +18,7 @@ Pellentesque accumsan gravida leo eget ultricies. Maecenas hendrerit auctor diam
 
 [Research Link](/files/sample.pdf)
 
-## Reseearch 3
+## Research 3
 
 Nulla accumsan ac est at feugiat. Sed ullamcorper risus non bibendum gravida. Phasellus placerat lorem ac felis venenatis, pharetra fringilla felis gravida. 
 
