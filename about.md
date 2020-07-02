@@ -22,3 +22,5 @@ Wasim is a sophomore at Northwestern University studying mathematics and economi
 
 Chris is a sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
 
+
+<a href="/index">Home</a> | <a href="/research">Research</a>
