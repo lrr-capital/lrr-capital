@@ -23,3 +23,5 @@ Pellentesque accumsan gravida leo eget ultricies. Maecenas hendrerit auctor diam
 Nulla accumsan ac est at feugiat. Sed ullamcorper risus non bibendum gravida. Phasellus placerat lorem ac felis venenatis, pharetra fringilla felis gravida. 
 
 [Research Link](/files/sample.pdf)
+
+<a href="/index">Home</a> | <a href="/about">About</a>
