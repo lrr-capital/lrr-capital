@@ -9,15 +9,15 @@ LRR Capital is a hedge fund founded by three students in 2020. Our strategy emph
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
 
-## Bio 1
+## Stephen J. Lowe
 
-Fusce pulvinar ante eu orci commodo, sed dignissim erat suscipit. Praesent et auctor massa. Quisque eu eros sit amet risus mattis tempus eu sit amet nibh. 
+Stephen is a junior at Northwestern University studying cognitive science. He is originally from Overland Park, KS. 
 
-## Bio 2
+## Wasim I. Rahaman
 
-Phasellus et facilisis ligula. Donec sodales condimentum urna, eget semper dui porta sed. Integer non euismod leo, sed euismod nulla.
+Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL.
  
-## Bio 3
+## Christopher A. Rascoe
 
-Nullam viverra nulla a porttitor pellentesque. Ut vehicula pulvinar lorem eget sollicitudin. 
+Chris isa sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
 
