@@ -4,6 +4,8 @@ title: Research
 ---
 # Research
 
+We'll be posting our equity research here. Be sure to check back in the coming weeks to stay updated on our latest insights.
+
 ## Research 1
 
 Donec consectetur sollicitudin mi eget placerat. Sed mi arcu, sagittis ut sollicitudin id, faucibus a lacus. Duis et tellus nec neque molestie mollis vel vitae nisi.
