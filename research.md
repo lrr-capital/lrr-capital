@@ -8,19 +8,19 @@ We'll be posting our equity research here. Be sure to check back in the coming w
 
 ## Research 1
 
-Donec consectetur sollicitudin mi eget placerat. Sed mi arcu, sagittis ut sollicitudin id, faucibus a lacus. Duis et tellus nec neque molestie mollis vel vitae nisi.
+We'll post a summary of our research here.
 
 [Research Link](/files/sample.pdf)
 
 ## Research 2
 
-Pellentesque accumsan gravida leo eget ultricies. Maecenas hendrerit auctor diam eget bibendum. Fusce ex magna, sollicitudin eget tincidunt quis, pulvinar sed elit.
+We'll post a summary of our research here.
 
 [Research Link](/files/sample.pdf)
 
 ## Research 3
 
-Nulla accumsan ac est at feugiat. Sed ullamcorper risus non bibendum gravida. Phasellus placerat lorem ac felis venenatis, pharetra fringilla felis gravida. 
+We'll post a summary of our research here.
 
 [Research Link](/files/sample.pdf)
 
