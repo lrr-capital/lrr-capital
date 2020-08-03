@@ -4,7 +4,7 @@ title: Research
 ---
 # Research
 
-We'll be posting our equity research here. Be sure to check back in the coming weeks to stay updated on our latest insights.
+We'll be posting our equity research here. Be sure to check back in the coming weeks to stay updated on our latest insights. Note that this is not an exhaustive record of our positions.
 
 ## Research 1
 
