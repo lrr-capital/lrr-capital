@@ -16,16 +16,16 @@ LRR Capital is registered as a limited liability company (LLC) with the State of
 
 Stephen is a junior at Northwestern University studying cognitive science. He is originally from Overland Park, KS, a suburb of Kansas City.
 
-You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/">LinkedIn</a>.
+You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/">LinkedIn</a> or contact him at <a href="mailto: slowe@lrrcapital.com"> slowe@lrrcapital.com</a>.
 
 
 ## Wasim I. Rahaman
 
 <img src="/images/wasim-1.jpg" alt="Wasim" width="150"/>
 
-Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL. Wasim is responsible for maintaining and managing LRR's website.
+Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL. In addition to the investment research duties shared by all members, Wasim is responsible for maintaining and managing LRR's website.
 
-You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedIn</a>.
+You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedIn</a> or contact him at <a href="mailto: wrahaman@lrrcapital.com">wrahaman@lrrcapital.com</a>.
  
 
 ## Christopher A. Rascoe
@@ -34,7 +34,7 @@ You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedI
 
 Chris is a sophomore at Northwestern University studying economics. He is originally from Atlanta, GA. 
 
-You can find him on <a href="https://www.linkedin.com/in/christopher-rascoe">LinkedIn</a>.
+You can find him on <a href="https://www.linkedin.com/in/christopher-rascoe">LinkedIn</a> or contact him at <a href="mailto:crascoe@lrrcapital.com">crascoe@lrrcapital.com</a>.
 
 
 <a href="/index">Home</a> | <a href="/research">Research</a>
