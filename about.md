@@ -23,7 +23,7 @@ You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/
 
 <img src="/images/wasim-1.jpg" alt="Wasim" width="150"/>
 
-Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL.
+Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL. Wasim is responsible for maintaining and managing LRR's website.
 
 You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedIn</a>.
  
