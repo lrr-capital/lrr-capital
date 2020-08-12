@@ -10,7 +10,7 @@ LRR Capital is registered as a limited liability company (LLC) with the State of
 
 ## Strategy 
 
-Our strategy emphasizes traditional value-based long/short public equity strategies, with a focus on mid- and small- cap companies across a variety of industries. We allocate portions of our portfolio to different categories of investments based on financial criteria to balance stability with growth. 
+Our strategy emphasizes traditional value-based long/short positions on public equities, with a focus on mid- and small- cap companies across a variety of industries. We allocate portions of our portfolio to different categories of investments based on financial criteria to balance stability with growth. 
 
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
