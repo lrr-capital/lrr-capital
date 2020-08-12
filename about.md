@@ -4,11 +4,18 @@ title: About
 ---
 # About
 
-LRR Capital is a hedge fund founded by three students in 2020. Our strategy emphasizes traditional long/short equity strategies, with a focus on mid- and small- cap companies. You can read more about our positions and research <a href="/research">here</a>. We currently invest approximately $12,000 in total assets under management.
+LRR Capital is a hedge fund founded by three students in 2020. We currently invest approximately $12,000 in total assets under management.
+
+LRR Capital is registered as a limited liability company (LLC) with the State of Georgia. 
+
+## Strategy 
+
+Our strategy emphasizes traditional value-based long/short public equity strategies, with a focus on mid- and small- cap companies across a variety of industries. We allocate portions of our portfolio to different categories of investments based on financial criteria to balance stability with growth. 
 
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
-LRR Capital is registered as a limited liability company (LLC) with the State of Georgia. 
+You can read more about our positions and research <a href="/research">here</a>. 
+
 
 ## Team
 
