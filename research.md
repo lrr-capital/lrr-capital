@@ -8,7 +8,7 @@ Explore some of our equity research below. Be sure to check back regularly to st
 
 ## Long: Leonardo S.p.A.
 
-**Wasim Rahaman | 07.24.20
+<b>Wasim Rahaman | 07.24.20 </b>
 
 Leonardo S.p.A. is an Italian aerospace & defense manufacturer. 
 
@@ -16,7 +16,7 @@ Leonardo S.p.A. is an Italian aerospace & defense manufacturer.
 
 ## Long: Deutsche Post AG
 
-**Wasim Rahaman | 08.02.20
+<b>Wasim Rahaman | 08.02.20 </b>
 
 Deutsche Post AG is a global logistics company based in Germany.
 
@@ -24,7 +24,7 @@ Deutsche Post AG is a global logistics company based in Germany.
 
 ## Long: Ventas, Inc.
 
-**Wasim Rahaman | 08.11.20
+<b>Wasim Rahaman | 08.11.20 </b>
 
 Ventas, Inc. is a real estate investment trust (REIT) based in Chicago, IL.
 
