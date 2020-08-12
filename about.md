@@ -10,7 +10,9 @@ Each of our founders plays an active role in sourcing and researching investment
 
 LRR Capital is registered as a limited liability company (LLC) with the State of Georgia. 
 
-## Stephen J. Lowe
+##Team
+
+### Stephen J. Lowe
 
 <img src="/images/stephen-1.jpg" alt="Stephen" width="150"/>
 
@@ -19,7 +21,7 @@ Stephen is a junior at Northwestern University studying cognitive science. He is
 You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/">LinkedIn</a> or contact him at <a href="mailto: slowe@lrrcapital.com"> slowe@lrrcapital.com</a>.
 
 
-## Wasim I. Rahaman
+### Wasim I. Rahaman
 
 <img src="/images/wasim-1.jpg" alt="Wasim" width="150"/>
 
@@ -28,7 +30,7 @@ Wasim is a sophomore at Northwestern University studying mathematics and economi
 You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedIn</a> or contact him at <a href="mailto: wrahaman@lrrcapital.com">wrahaman@lrrcapital.com</a>.
  
 
-## Christopher A. Rascoe
+### Christopher A. Rascoe
 
 <img src="/images/seal-1.jpg" alt="Chris" width="150"/>
 
