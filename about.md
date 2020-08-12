@@ -10,7 +10,7 @@ Each of our founders plays an active role in sourcing and researching investment
 
 LRR Capital is registered as a limited liability company (LLC) with the State of Georgia. 
 
-##Team
+## Team
 
 ### Stephen J. Lowe
 
