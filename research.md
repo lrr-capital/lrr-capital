@@ -32,7 +32,7 @@ Ventas, Inc. is a real estate investment trust (REIT) based in Chicago, IL.
 
 ## Short: Churchill Downs, Inc. 
 
-<b> Wasim Rahaman | 08.11.20 </b>
+<b> Wasim Rahaman | 08.12.20 </b>
 
 Churchill Downs, Inc. is an American company that owns racetracks, casinos, and online gambling platforms.
 
