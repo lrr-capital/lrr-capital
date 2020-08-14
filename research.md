@@ -6,21 +6,15 @@ title: Research
 
 Explore some of our equity research below. Be sure to check back regularly to stay updated on our latest insights. Note that this is not an exhaustive record of our positions.
 
-## Long: Leonardo S.p.A.
 
-<b>Wasim Rahaman | 07.24.20 </b>
+## Short: Churchill Downs, Inc. 
 
-Leonardo S.p.A. is an Italian aerospace & defense manufacturer. 
+<b> Wasim Rahaman | 08.12.20 </b>
 
-[Download summary](/files/LRR_WIR_LONG_Leonardo_SpA.pdf)
+Churchill Downs, Inc. is an American company that owns racetracks, casinos, and online gambling platforms.
 
-## Long: Deutsche Post AG
+[Download summary](/files/LRR_WIR_Short_ChurchillDowns_Inc.pdf)
 
-<b>Wasim Rahaman | 08.02.20 </b>
-
-Deutsche Post AG is a global logistics company based in Germany.
-
-[Download summary](/files/LRR_WIR_LONG_DeutschePost_AG.pdf)
 
 ## Long: Ventas, Inc.
 
@@ -30,12 +24,23 @@ Ventas, Inc. is a real estate investment trust (REIT) based in Chicago, IL.
 
 [Download summary](/files/LRR_WIR_LONG_Ventas_Inc.pdf)
 
-## Short: Churchill Downs, Inc. 
 
-<b> Wasim Rahaman | 08.12.20 </b>
+## Long: Deutsche Post AG
 
-Churchill Downs, Inc. is an American company that owns racetracks, casinos, and online gambling platforms.
+<b>Wasim Rahaman | 08.02.20 </b>
 
-[Download summary](/files/LRR_WIR_Short_ChurchillDowns_Inc.pdf)
+Deutsche Post AG is a global logistics company based in Germany.
+
+[Download summary](/files/LRR_WIR_LONG_DeutschePost_AG.pdf)
+
+
+## Long: Leonardo S.p.A.
+
+<b>Wasim Rahaman | 07.24.20 </b>
+
+Leonardo S.p.A. is an Italian aerospace & defense manufacturer. 
+
+[Download summary](/files/LRR_WIR_LONG_Leonardo_SpA.pdf)
+
 
 <a href="/index">Home</a> | <a href="/about">About</a>
