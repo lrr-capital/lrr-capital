@@ -43,4 +43,14 @@ Leonardo S.p.A. is an Italian aerospace & defense manufacturer.
 [Download summary](/files/LRR_WIR_LONG_Leonardo_SpA.pdf)
 
 
+## Neutral: Cloudflare, Inc.
+
+<b>Wasim Rahaman | 06.26.20 </b>
+
+Cloudflare, Inc. is an American cybersecurity company.
+
+[Download summary](/files/LRR_WIR_Neutral_Cloudflare_Inc.pdf)
+
+
+
 <a href="/index">Home</a> | <a href="/about">About</a>
