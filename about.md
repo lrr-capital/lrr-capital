@@ -10,7 +10,7 @@ LRR Capital is registered as a limited liability company (LLC) with the State of
 
 ## Strategy 
 
-Our strategy emphasizes traditional value-based long/short positions on public equities, with a focus on mid- and small- cap companies across a variety of industries. We allocate portions of our portfolio to different categories of companies based on financial criteria to balance stability with growth. 
+Our strategy emphasizes traditional value-based long/short positions on public equities, with a focus on mid- and small- cap companies across a variety of industries. We allocate portions of our portfolio to different categories of companies based on financial criteria to balance stability with growth. We use a variety of metrics and ratios to measure our portfolio's performance relative to its risk, volatility, and the overal market's performance.
 
 Each of our founders plays an active role in sourcing and researching investments. Read more about our founders below.
 
@@ -32,7 +32,7 @@ You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/
 
 <img src="/images/wasim-1.jpg" alt="Wasim" width="150"/>
 
-Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL. In addition to the investment research duties shared by all members, Wasim is responsible for maintaining and managing LRR's website.
+Wasim is a sophomore at Northwestern University studying mathematics and economics with a minor in data science. He is originally from Chicago, IL. In addition to the investment research duties shared by all members, Wasim is responsible for measuring the fund's performance and managing LRR's website.
 
 You can find him on <a href="https://www.linkedin.com/in/wasim-rahaman/">LinkedIn</a> or contact him at <a href="mailto: wrahaman@lrrcapital.com">wrahaman@lrrcapital.com</a>.
  
