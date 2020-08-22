@@ -7,6 +7,15 @@ title: Research
 Explore some of our equity research below. Be sure to check back regularly to stay updated on our latest insights. Note that this is not an exhaustive record of our positions.
 
 
+## Long: Global Ship Lease, Inc.
+
+<b> Wasim Rahaman | 08.18.20 </b>
+
+Global Ship Lease, Inc. is a marine shipping company headquartered in London. 
+
+[Download summary](/files/LRR_WIR_Long_GlobalShipLease_Inc.pdf)
+
+
 ## Short: Churchill Downs, Inc. 
 
 <b> Wasim Rahaman | 08.12.20 </b>
