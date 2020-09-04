@@ -6,6 +6,8 @@ title: Research
 
 Explore some of our equity research below. Be sure to check back regularly to stay updated on our latest insights. Note that this is not an exhaustive record of our positions.
 
+Names reflect the team member(s) responsible for sourcing and researching a given investment. Each company is vetted and approved by the entire team. 
+
 
 ## Long: Global Ship Lease, Inc.
 
