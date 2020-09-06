@@ -8,6 +8,23 @@ Explore some of our equity research below. Be sure to check back regularly to st
 
 Names reflect the team member(s) responsible for sourcing and researching a given investment. Each company is vetted and approved by the entire team. 
 
+## Long: Movado Group, Inc. 
+
+<b> Wasim Rahaman | 09.05.20 </b> 
+
+Movado Group, Inc. is a luxury watchmaker based in Paramus, NJ.
+
+[Download summary](/files/LRR_WIR_LONG_MovadoGroup_Inc.pdf)
+
+
+## Short: FuelCell Energy, Inc. 
+
+<b> Wasim Rahaman | 08.31.20 </b> 
+
+FuelCell Energy, Inc. is a manufacturer and operator of fuel cell power plants based in Danbury, CT.
+
+[Download summary](/files/LRR_WIR_Short_FuelCellEnergy_Inc.pdf)
+
 
 ## Long: Global Ship Lease, Inc.
 
