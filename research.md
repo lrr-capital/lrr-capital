@@ -80,5 +80,7 @@ Cloudflare, Inc. is an American cybersecurity company.
 [Download summary](/files/LRR_WIR_Neutral_Cloudflare_Inc.pdf)
 
 
+<i><b>Disclosures:</b> The research summaries here represent the opinions of their respective writers and do not constitute any offer(s) or solicitation(s) to buy, sell, or borrow securities. LRR Capital and/or the writers of each report typically hold the described positions. The writers have no business relationships with the companies whose shares are referenced here.</i> 
+
 
 <a href="/index">Home</a> | <a href="/about">About</a>
