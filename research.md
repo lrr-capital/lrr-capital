@@ -68,7 +68,7 @@ Deutsche Post AG is a global logistics company based in Germany.
 
 Leonardo S.p.A. is an Italian aerospace & defense manufacturer. 
 
-[Download summary](/files/LRR_WIR_LONG_Leonardo_SpA.pdf)
+[Download summary](/files/LRR_WIR_LONG_Leonardo_SpA_Updated.pdf)
 
 
 ## Neutral: Cloudflare, Inc.
