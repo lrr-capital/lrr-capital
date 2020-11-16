@@ -53,32 +53,6 @@ Ventas, Inc. is a real estate investment trust (REIT) based in Chicago, IL.
 [Download summary](/files/LRR_WIR_LONG_Ventas_Inc.pdf)
 
 
-## Long: Deutsche Post AG
-
-<b>Wasim Rahaman | 08.02.20 </b>
-
-Deutsche Post AG is a global logistics company based in Germany.
-
-[Download summary](/files/LRR_WIR_LONG_DeutschePost_AG.pdf)
-
-
-## Long: Leonardo S.p.A.
-
-<b>Wasim Rahaman | 07.24.20 </b>
-
-Leonardo S.p.A. is an Italian aerospace & defense manufacturer. 
-
-[Download summary](/files/LRR_WIR_LONG_Leonardo_SpA_Updated.pdf)
-
-
-## Neutral: Cloudflare, Inc.
-
-<b>Wasim Rahaman | 06.26.20 </b>
-
-Cloudflare, Inc. is an American cybersecurity company.
-
-[Download summary](/files/LRR_WIR_Neutral_Cloudflare_Inc.pdf)
-
 
 <i><b>Disclosures:</b> The research summaries here represent the opinions of their respective writers and do not constitute any offer(s) or solicitation(s) to buy, sell, or borrow any security or securities. LRR Capital and/or the writers of each report typically hold the described positions. The writers have no business relationships with the companies whose shares are referenced here.</i> 
 
