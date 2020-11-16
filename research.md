@@ -32,7 +32,7 @@ FuelCell Energy, Inc. is a manufacturer and operator of fuel cell power plants b
 
 Global Ship Lease, Inc. is a marine shipping company headquartered in London. 
 
-[Download summary](/files/GSL Pitch---Wasim Rahaman.pdf)
+[Download summary](/files/LRR_WIR_LONG_GlobalShipLease_Inc_Presentation.pdf)
 
 
 ## Short: Churchill Downs, Inc. 
