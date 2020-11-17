@@ -8,6 +8,15 @@ Explore some of our equity research below. Be sure to check back regularly to st
 
 Names reflect the team member(s) responsible for sourcing and researching a given investment. Each company is vetted and approved by the entire team. 
 
+## 100-Day Performance Report
+
+<b> Wasim Rahaman | 11.16.20 </b> 
+
+A report on our portfolio's risk and returns to date, as well as a partial list of positions.
+
+[Download Report][/files/LRR_WIR_100DayReport.pdf]
+
+
 ## Long: Movado Group, Inc. 
 
 <b> Wasim Rahaman | 09.05.20 </b> 
