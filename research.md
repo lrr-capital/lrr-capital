@@ -14,7 +14,7 @@ Names reflect the team member(s) responsible for sourcing and researching a give
 
 A report on our portfolio's risk and returns to date, as well as a partial list of positions.
 
-[Download Report][/files/LRR_WIR_100DayReport.pdf]
+[Download Report](/files/LRR_WIR_100DayReport.pdf)
 
 
 ## Long: Movado Group, Inc. 
