@@ -14,7 +14,7 @@ Names reflect the team member(s) responsible for sourcing and researching a give
 
 Vistra Corp is a vertically-integrated energy company based in Irving, TX. This post marks Orazio's first as a guest contributor to LRR Capital. Orazio is a junior at Northwestern University.
 
-[Download report](/files/LRR_Guest-OC_Long_Vistra_Corp.pdf)
+[Download summary](/files/LRR_Guest-OC_Long_Vistra_Corp.pdf)
 
 ## 100-Day Performance Report
 
