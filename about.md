@@ -30,7 +30,7 @@ You can find him on <a href="https://www.linkedin.com/in/stephen-lowe-bb1876180/
 
 ### Wasim I. Rahaman
 
-<img src="/images/wasim-2.jpg" alt="Wasim" width="150"/>
+<img src="/images/2021-02-10.jpg" alt="Wasim" width="150"/>
 
 Wasim is a sophomore at Northwestern University studying mathematics with minors in data science and economics. He is originally from Chicago, IL. In addition to the investment research duties shared by all members, Wasim is responsible for measuring the fund's performance and managing LRR's website.
 
